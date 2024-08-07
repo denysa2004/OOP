@@ -1,0 +1,3 @@
+C:/Users/Denisa/CLionProjects/praktik/cmake-build-debug/CMakeFiles/praktik.dir
+C:/Users/Denisa/CLionProjects/praktik/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Denisa/CLionProjects/praktik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
