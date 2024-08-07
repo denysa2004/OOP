@@ -1,0 +1,3 @@
+C:/Users/Denisa/CLionProjects/Restaurant1/cmake-build-debug/CMakeFiles/praktik_oop.dir
+C:/Users/Denisa/CLionProjects/Restaurant1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Denisa/CLionProjects/Restaurant1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
